@@ -42,6 +42,7 @@ img {
 }
 ul li a {
   text-decoration: none;
+  text-transform: capitalize;
 }
 .coffee-list {
   width: 1.2px;
