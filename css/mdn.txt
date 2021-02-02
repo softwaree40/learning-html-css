@@ -1,0 +1,9 @@
+modified:   index.html
+        deleted:    nav-menus/about.html
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        about.html
+        css/
+        images/coffeebus.jpg
+        images/coffeelist.jpg
